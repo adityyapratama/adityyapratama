@@ -1,7 +1,7 @@
 👋 Hi, I’m Nakama of Luffy
 👀 I’m interested in information tech
 🌱 I’m currently learning Software Requirement 
-💞️ now i am collaboration in Evop.tech
+</> now i am collaboration in Evop.tech
 📫 How to reach me ..
 😄 Pronouns: He/Him
 ⚡ Fun fact: I AM IS MAO'SAMA
