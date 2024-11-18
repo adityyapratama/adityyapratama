@@ -1,5 +1,5 @@
 # 💫 About Me:
-^_^ Hiiii!!! I'm Nero, an informatics major who is studying programming to get the best job in the future.<br>🔭 I’m currently working as wordpress dev on EVOP and be creative tim in GDOC UNAIR<br>👯 I’m looking to collaborate on PKM <br>💻 Wordpress dev and Fullstack use several languages one of which is laravel<br>🌱 I’m currently learning Next js,Design UI | UX and Dart<br>💬 Ask me or talk in Discord <br>⚡ Fun fact, I love one piece and code, and I was an electrical engineer in high school
+^_^ Hiiii!!! I'm Nero, an informatics major who is studying programming to get the best job in the future.<br>🔭 I’m currently working as wordpress dev on EVOP and be creative tim in GDGoC UNAIR<br>👯 I’m looking to collaborate on PKM <br>💻 Wordpress dev and Fullstack use several languages one of which is laravel<br>🌱 I’m currently learning Next js,Design UI | UX and Dart<br>💬 Ask me or talk in Discord <br>⚡ Fun fact, I love one piece and code, and I was an electrical engineer in high school
 
 
 ## 🌐 Socials:
