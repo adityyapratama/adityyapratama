@@ -1,7 +1,7 @@
 # 💫 About Me:
 ^_^ Hiiii!!! I'm Nero, an informatics major who is studying programming to get the best job in the future.<br>🔭 I’m currently working as wordpress dev on EVOP and be creative tim in GDGoC UNAIR<br>👯 I’m looking to collaborate on PKM <br>💻 Wordpress dev and Fullstack use several languages one of which is laravel<br>🌱 I’m currently learning Next js,Design UI | UX and Dart<br>💬 Ask me or talk in Discord <br>⚡ Fun fact, I love one piece and code, and I was an electrical engineer in high school
 
-<img src="https://raw.githubusercontent.com/Adittyaa3/Adittyaa3/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adityyapratama/adityyapratama/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aditya^) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityyapraatama) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m|https://www.linkedin.com/in/aditya-pratama864ba6273/) 
