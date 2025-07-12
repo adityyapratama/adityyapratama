@@ -1,5 +1,5 @@
 # 💫 About Me:
-^_^ Hiiii!!! I'm Nero, an informatics major who is studying programming to get the best job in the future.<br>🔭 I’m currently working as Fullstack Developer at EVOP and Junior Mobile Developer 
+^_^ Hiiii!!! I'm Nero, an informatics major who is studying programming to explore tech stack.<br>🔭 I’m currently working as Fullstack Developer at EVOP and Junior Mobile Developer 
 <br>💻  Flutter For Mobile and Fullstack use several languages one of which is laravel<br>🌱 I’m currently learning Next js, Flutter and Machine Learning<br>💬 Ask me or talk in Discord <br>⚡ Fun fact, I love one piece and code, and I was an electrical engineer in high school
 
 <img src="https://raw.githubusercontent.com/adityyapratama/adityyapratama/output/snake.svg" alt="Snake animation" />
